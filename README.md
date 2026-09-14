@@ -5,7 +5,7 @@ Desenvolvendo jogo usando html e css
 Criar um jogo de pular obstáculos (estilo dinossaurinho do chrome)
 
 # Tecnologias
-Visual code -> Para construção do html + css
+Visual code -> Para construção do html + css + java
 Canva -> para wireframes
 
 # Como utilizar
